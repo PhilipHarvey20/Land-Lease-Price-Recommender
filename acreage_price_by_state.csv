@@ -1,51 +1,51 @@
-STATE,STATE_PRC_PER_ACRE
-Alabama,10
-Arkansas,11
-Georgia,15
-Illinois,25
-Indiana,19
-Iowa,35
-Kansas,9
-Kentucky,14
-Louisiana,9
-Maryland,17
-Michigan,21
-Minnesota,20
-Mississippi,10
-Missouri,25
-Nebraska,5
-New York,19
-North Carolina,12
-Ohio,28.5
-Oklahoma,13
-Pennsylvania,16
-South Carolina,15
-South Dakota,5
-Tennessee,8.5
-Virginia,16
-West Virginia,11
-Wisconsin,24
-Alaska,10
-Arizona,10
-California,10
-Colorado,10
-Connecticut,10
-Delaware,10
-Florida,10
-Hawaii,10
-Idaho,10
-Maine,10
-Massachusetts,10
-Montana,10
-Nevada,10
-New Hampshire,10
-New Jersey,10
-New Mexico,10
-North Dakota,10
-Oregon,10
-Rhode Island,10
-Texas,10
-Utah,10
-Vermont,10
-Washington,10
-Wyoming,10
+STATE,BASE_STATE_PRC_HUNTING,BASE_STATE_PRC_HUNTING_OVER_100_ACRES
+Illinois,29,29
+Oregon,10,22
+Iowa,35,35
+Mississippi,10,22
+Wyoming,10,22
+Arkansas,11,23
+Pennsylvania,16,28
+South Carolina,15,27
+Michigan,21,33
+Connecticut,10,22
+New Hampshire,10,22
+Virginia,16,28
+Nebraska,10,22
+Georgia,15,27
+Hawaii,10,22
+Arizona,10,22
+Tennessee,10,22
+Vermont,10,22
+California,10,22
+New Jersey,10,22
+New York,19,31
+Minnesota,20,32
+Massachusetts,10,22
+Missouri,29,29
+Maine,10,22
+Oklahoma,13,25
+Kansas,29,29
+Ohio,32,32
+Wisconsin,29,29
+Washington,10,22
+New Mexico,10,22
+West Virginia,11,23
+North Carolina,12,24
+North Dakota,10,22
+Indiana,19,31
+Alaska,10,22
+Texas,10,22
+Delaware,10,22
+Rhode Island,10,22
+Utah,10,22
+Montana,10,22
+South Dakota,10,22
+Maryland,17,29
+Alabama,10,22
+Idaho,10,22
+Louisiana,10,22
+Nevada,10,22
+Kentucky,29,29
+Florida,10,22
+Colorado,10,22
